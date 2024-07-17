@@ -177,3 +177,5 @@ openai-env/pyvenv.cfg
 .env.copy
 .env.copy
 .env.copy
+.env.copy
+.env.copy
