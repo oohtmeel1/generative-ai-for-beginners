@@ -162,3 +162,5 @@ cython_debug/
 node_modules/
 
 .DS_Store
+.env.copy
+.env.copy
