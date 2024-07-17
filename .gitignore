@@ -164,3 +164,16 @@ node_modules/
 .DS_Store
 .env.copy
 .env.copy
+openai-env/Scripts/pip.exe
+openai-env/Scripts/pip3.11.exe
+openai-env/Scripts/pip3.exe
+openai-env/Scripts/python.exe
+openai-env/Scripts/pythonw.exe
+openai-env/Scripts/deactivate.bat
+openai-env/Scripts/Activate.ps1
+openai-env/Scripts/activate.bat
+openai-env/Scripts/activate
+openai-env/pyvenv.cfg
+.env.copy
+.env.copy
+.env.copy
